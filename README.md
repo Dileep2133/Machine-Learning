@@ -1,5 +1,5 @@
 Machine Learning (supervised, unsupervised, reinforcement along with NLP)
-This contain projects on most of Machine Learning Algorithms (more then 27 projects are included)
+This contain projects on most of Machine Learning Algorithms (more then 27 projects are included along with Datasets)
 updated on April 2023
 
 
